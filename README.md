@@ -3,7 +3,7 @@
 A simple, flexible, and offline-capable calorie tracking Progressive Web App built with React, TypeScript, and IndexedDB.
 
 This app fills a gap in my experience of the calorie tracking landscape.
-Commercial apps often demand a level of detail that doesn't match real life $mdash;
+Commercial apps often demand a level of detail that doesn't match real life &mdash;
 sometimes I want to meticulously log a home-cooked meal,
 and sometimes I just need to quickly record "snack, about 200 calories" without friction.
 Spreadsheets offer the flexibility I want but are painfully clunky on a phone.
