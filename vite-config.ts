@@ -20,8 +20,8 @@ export default defineConfig({
         background_color: '#ffffff',
         display: 'standalone',
         orientation: 'portrait',
-        scope: '/calorie-tracker/',
-        start_url: '/calorie-tracker/',
+        scope: '/calorie-tracker-pwa/',
+        start_url: '/calorie-tracker-pwa/',
         icons: [
           {
             src: 'icon-192.png',
